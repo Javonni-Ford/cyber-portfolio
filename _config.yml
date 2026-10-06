@@ -28,7 +28,7 @@ color:
   primary: 540d6e #80B3FF
   primary-rgb: "84,13,110" #"128,179,255"
   secondary: ffd23f #FD6E8A
-  secondary-dark: 000000 #A2122F
+  secondary-dark: 36454F #A2122F
 
 # Footer settings
 footer:
