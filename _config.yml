@@ -25,10 +25,10 @@ disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 2dd7b9 #80B3FF
-  primary-rgb: "45,215,185" #"128,179,255"
-  secondary: 48597a #FD6E8A
-  secondary-dark: 001846 #A2122F
+  primary: 540d6e #80B3FF
+  primary-rgb: "84,13,110" #"128,179,255"
+  secondary: ffd23f #FD6E8A
+  secondary-dark: 000000 #A2122F
 
 # Footer settings
 footer:
@@ -50,7 +50,7 @@ email:
 
 # Postal address (add as many lines as necessary)
 location:
-  - line: san francisco, California
+  - line: San francisco, California
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
